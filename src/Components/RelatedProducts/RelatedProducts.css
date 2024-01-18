@@ -1,0 +1,17 @@
+.relatedproducts{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 80px 0;
+   
+}
+
+.relatedproducts h1{
+    margin-bottom: 40px;
+}
+
+.related-products{
+    display: flex;
+    gap: 70px;
+    
+}
